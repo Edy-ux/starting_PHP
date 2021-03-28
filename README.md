@@ -1,5 +1,5 @@
-# starting_PHP
+# Começando com  PHP
 
 PHP básico - Curso School of Net
 
-- linguaguem Backend 
+- linguagem Backend 
